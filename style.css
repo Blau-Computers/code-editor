@@ -15,15 +15,16 @@ body {
   width: calc(50% - 10px);
   height: 90%;
   left: calc(50%);
-  top: -7px;
+  bottom: -9px;
   background-color: white;
 }
 
 #input {
-  position: static;
+  position: absolute;
   width: calc(50% - 50px);
   height: calc(90% - 4px);
   background-color: white;
   resize: none;
   outline: none;
+  bottom: 5px;
 }
