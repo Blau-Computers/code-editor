@@ -5,10 +5,9 @@
 
 body {
   color: #0A4059;
-  text-align: center;
 }
 
-#top-nav-container {
+.top-nav-container {
   position: absolute;
   top: 0;
   left: 0;
@@ -31,7 +30,7 @@ body {
   height: 50px;
 }
 
-button {
+#goBtn {
   background-color: #0A4059;
   color: #007BB3;
   padding: 10px 20px;
@@ -40,6 +39,6 @@ button {
   font-size: 25px;
 }
 
-button:active {
+#goBtn:active {
   background-color: #0a2457;
 }
