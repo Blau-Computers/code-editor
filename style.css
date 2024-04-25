@@ -1,3 +1,4 @@
+/* this corresponds to the code editing page */
 html {
   height: 100%;
   width: 100%;
@@ -28,6 +29,6 @@ body {
   background-color: white;
   resize: none;
   outline: none;
-  bottom: 4px;
+  bottom: 5px;
   border: none;
 }
