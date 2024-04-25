@@ -17,6 +17,7 @@ body {
   left: calc(50%);
   bottom: -9px;
   background-color: white;
+  border: none;
 }
 
 #input {
