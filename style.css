@@ -13,7 +13,7 @@ body {
 #output {
   position: absolute;
   width: calc(50% - 10px);
-  height: 90%;
+  height: calc(88%  + 4px);
   left: calc(50%);
   bottom: -9px;
   background-color: white;
@@ -22,7 +22,8 @@ body {
 #input {
   position: absolute;
   width: calc(50% - 50px);
-  height: calc(90% - 4px);
+  height: calc(88%);
+  left: 5px;
   background-color: white;
   resize: none;
   outline: none;
