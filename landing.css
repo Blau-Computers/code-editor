@@ -58,5 +58,6 @@ body {
 }
 
 #insideTitleElement {
-  margin-top: 50px;
+  position: fixed;
+  top: 50px;
 }
