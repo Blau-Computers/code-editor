@@ -38,6 +38,7 @@ body {
   border: none;
   border-radius: 6px;
   font-size: 25px;
+  font-family: "Courier New", monospace;
 }
 
 #goBtn:active {
