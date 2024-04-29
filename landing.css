@@ -34,9 +34,9 @@ body {
 
 .pageTitle {
   position: absolute;
-  top: 20px;
+  top: 15px;
   left: 60px;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 #goBtn {
