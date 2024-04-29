@@ -54,7 +54,6 @@ body {
   height: calc(100% - 61px);
   font-size: 50px;
   font-family: "Courier New", monospace;
-  text-align: center;
   color: white;
   background-color: transparent;
 }
