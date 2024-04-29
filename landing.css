@@ -50,7 +50,7 @@ body {
   top: 60px;
   left: 0;
   width: 100%;
-  height: calc(100% - 61px);
+  height: calc(100% - 60px);
   font-size: 50px;
   font-family: "Courier New", monospace;
   text-align: center;
