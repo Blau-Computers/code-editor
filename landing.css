@@ -63,6 +63,7 @@ body {
   top: 10px;
   left: 10px;
   width: 100%;
+  text-align: left;
 }
 
 #adHeader2 {
@@ -70,6 +71,7 @@ body {
   top: 60px;
   right: 10px;
   width: 100%;
+  text-align: right;
 }
 
 #adHeader3 {
@@ -77,4 +79,5 @@ body {
   top: 110px;
   left: 10px;
   width: 100%;
+  text-align: left;
 }
