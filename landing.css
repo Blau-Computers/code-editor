@@ -59,6 +59,10 @@ body {
   background-color: transparent;
 }
 
+.adHeader {
+  font-size: 25px;
+}
+
 #adHeader1 {
   position: absolute;
   top: 10px;
