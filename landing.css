@@ -7,7 +7,7 @@ html {
 body {
   user-select: none;
 }
-
+/* alter this to style the nav bar in all pages */
 .top-nav-container {
   position: absolute;
   top: 0;
