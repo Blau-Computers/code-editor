@@ -32,6 +32,13 @@ body {
   height: 50px;
 }
 
+.pageTitle {
+  position: absolute;
+  top: 5px;
+  left: 60px;
+  font-size: 25px;
+}
+
 #goBtn {
   background-color: #0A4059;
   color: #007BB3;
