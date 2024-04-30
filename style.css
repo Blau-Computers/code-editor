@@ -21,6 +21,10 @@ body {
   border: none;
 }
 
+#output, * {
+  position: relative;
+}
+
 #input {
   position: absolute;
   width: calc(50% - 50px);
