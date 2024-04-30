@@ -21,7 +21,7 @@ body {
   border: none;
 }
 
-#output, * {
+#output > * {
   position: relative;
 }
 
