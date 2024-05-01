@@ -74,6 +74,7 @@ body {
   left: 10px;
   width: 100%;
   text-align: left;
+  letter-spacing: 3px;
 }
 
 #adHeader2 {
@@ -82,6 +83,7 @@ body {
   right: 10px;
   width: 100%;
   text-align: right;
+  letter-spacing: 3px;
 }
 
 #adHeader3 {
@@ -90,6 +92,7 @@ body {
   left: 10px;
   width: 100%;
   text-align: left;
+  letter-spacing: 3px;
 }
 
 #adHeader4 {
@@ -98,4 +101,5 @@ body {
   right: 10px;
   width: 100%;
   text-align: right;
+  letter-spacing: 3px;
 }
